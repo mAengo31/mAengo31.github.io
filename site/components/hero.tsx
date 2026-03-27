@@ -19,7 +19,7 @@ export function Hero() {
           </p>
 
           <h1 className="text-5xl font-bold leading-[1.1] tracking-tight text-text-primary md:text-7xl">
-            Mingeon Kim
+            Edward Kim
           </h1>
 
           <p className="mx-auto mt-8 max-w-xl text-lg leading-relaxed text-text-secondary md:text-xl">

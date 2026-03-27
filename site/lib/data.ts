@@ -1,14 +1,14 @@
 export const siteConfig = {
-  name: "Mingeon Kim",
-  title: "Mingeon Kim — Builder, Researcher, Founder",
+  name: "Edward Kim",
+  title: "Edward Kim — Builder, Researcher, Founder",
   description:
     "Founder and research engineer building frontier AI systems. Interested in inference infrastructure, agentic software, and technically serious startups.",
   url: "https://maengo31.github.io",
-  email: "mingeon.k@gmail.com",
+  email: "maen90313@gmail.com",
   links: {
     github: "https://github.com/mAengo31",
-    linkedin: "https://linkedin.com/in/mingeonkim",
-    x: "https://x.com/mingeonkim",
+    linkedin: "https://www.linkedin.com/in/mingeon--kim/",
+    x: "https://x.com/mAeng31",
   },
 };
 

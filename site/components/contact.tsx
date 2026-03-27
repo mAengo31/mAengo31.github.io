@@ -59,7 +59,7 @@ export function Contact() {
       {/* Footer */}
       <div className="mx-auto mt-32 max-w-3xl border-t border-border pt-8 text-center">
         <p className="font-mono text-xs text-text-muted">
-          &copy; {new Date().getFullYear()} Mingeon Kim. Built with intention.
+          &copy; {new Date().getFullYear()} Edward Kim. Built with intention.
         </p>
       </div>
     </section>

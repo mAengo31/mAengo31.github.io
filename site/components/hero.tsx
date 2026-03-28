@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { motion } from "framer-motion";
 
 export function Hero() {
@@ -14,6 +15,17 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, ease: "easeOut" }}
         >
+          <div className="mx-auto mb-8 h-28 w-28 overflow-hidden rounded-full border border-border md:h-36 md:w-36">
+            <Image
+              src="/profile.jpg"
+              alt="Edward Kim"
+              width={144}
+              height={144}
+              className="h-full w-full object-cover"
+              priority
+            />
+          </div>
+
           <p className="mb-6 font-mono text-xs tracking-[0.3em] uppercase text-text-muted">
             Founder &middot; Research Engineer &middot; Builder
           </p>
